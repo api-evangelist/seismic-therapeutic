@@ -1,8 +1,27 @@
 aid: seismic-therapeutic
 name: Seismic Therapeutic
-description: 'Seismic Therapeutic is a company surfaced as a portfolio company of bessemer-venture-partners,
-  gv, lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector:
-  biotech. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  Seismic Therapeutic is a clinical-stage biopharmaceutical company developing
+  transformative biologic medicines for autoimmune and inflammatory diseases. The
+  company pairs structural biology with machine learning through its proprietary
+  IMPACT platform to design multi-functional antibodies and Immunoglobulin Sculpting
+  (IgSc) enzymes across cell-mediated, allergic, and antibody-mediated immune
+  diseases. Surfaced as a portfolio company of Bessemer Venture Partners, GV, and
+  Lightspeed Venture Partners, it was added to the API Evangelist network as a lead
+  for enrichment. As a therapeutics R&D company it publishes no public developer or
+  API surface at seismictx.com; this profile captures its corporate identity only.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://seismictx.com/wp-content/uploads/2023/09/Seismic-website-universal-social-preview-card-final-Sept-2023.png
 url: https://raw.githubusercontent.com/api-evangelist/seismic-therapeutic/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,10 +33,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Biotech
+- Biopharmaceutical
+- Immunology
+- Drug Discovery
+- Machine Learning
+- Autoimmune
+- Therapeutics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -27,3 +52,20 @@ maintainers:
 common:
 - type: Website
   url: https://seismictx.com/
+- type: About
+  url: https://seismictx.com/about/
+- type: Blog
+  url: https://seismictx.com/news/
+- type: Support
+  url: https://seismictx.com/contact/
+- type: PrivacyPolicy
+  url: https://seismictx.com/privacy-policy/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/seismic-therapeutic/
+- type: Twitter
+  url: https://x.com/Seismic_Tx
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
