@@ -47,11 +47,11 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Biotech
+- Biotechnology
 - Biopharmaceutical
 - Immunology
 - Drug Discovery
-- Machine-Learning
+- Machine Learning
 - Autoimmune
 - Therapeutics
 tags_raw:
@@ -63,6 +63,7 @@ tags_raw:
 - Machine Learning
 - Autoimmune
 - Therapeutics
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
